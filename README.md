@@ -8,6 +8,5 @@ Also be aware that keybindings related to workspace are **NOT** in config_keybin
 2. Xed text editor - I have a cheatsheet for keybindings set to SUPER+F1, useful when starting out. Since it uses Xed to open the file, I recommend having that installed
 3. i3lock-color - needed for the dracula lock I'm using
 ## Usage
-The ".scripts" folder should be on your home directory. Everything else goes in your ".configs" folder
 1. SUPER+m to show the i3bar, since it starts hidden
 2. SUPER+F1 or click "HELP" in the bar for more info on keybindings
