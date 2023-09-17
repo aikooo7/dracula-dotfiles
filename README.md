@@ -1,6 +1,8 @@
 # dracula-dotfiles
 This is my personal rice, built on top of the endeavourOS i3wm configs
 
+![Dracula_Rice](https://github.com/Heoutera/dracula-dotfiles/assets/138242609/e8961a69-f1f2-4384-9599-7d2e13e45770)
+
 ## Requirements
 1. Nerdfonts - This setup is using BitstromWera Nerd fonts. I highly recommend already having that installed
 2. Xed text editor - I have a cheatsheet for keybindings set to SUPER+F1, useful when starting out. Since it uses Xed to open the file, I recommend having that installed
