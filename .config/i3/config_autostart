@@ -17,7 +17,7 @@ exec --no-startup-id brightnessctl set 1%+
 # Start a script to setup displays (Create monitor.sh file to use with ARandR)
 #exec --no-startup-id ~/.screenlayout/monitor.sh
 
-# Set wallpaper with script
+# Set wallpaper with script (script searches for wallpapers in the folder ~/Pictures/Wallpapers/)
 exec --no-startup-id sleep 2 && ~/.config/i3/scripts/wallpaper.sh
 
 # Set wallpaper with nitrogen
